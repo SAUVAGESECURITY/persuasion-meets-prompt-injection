@@ -7,6 +7,7 @@ Essays on what decades of copywriting and persuasion research teach us about pro
 ## Essays
 
 1. [The Reader on the Other End](essays/01-the-reader-on-the-other-end.md) — why prompt injection is copywriting with a model on the other end, and where the analogy breaks
+2. [The Envelope, Not the Letter](essays/02-the-envelope-not-the-letter.md) — why every defense that filters surface form loses to the first good reframe
 
 More in the drafts folder as they land.
 
