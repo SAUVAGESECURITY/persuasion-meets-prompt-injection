@@ -13,6 +13,7 @@ Topics: prompt injection, indirect prompt injection, jailbreak research, LLM red
 1. [The Reader on the Other End](essays/01-the-reader-on-the-other-end.md) — why prompt injection is copywriting with a model on the other end, and where the analogy breaks
 2. [The Envelope, Not the Letter](essays/02-the-envelope-not-the-letter.md) — why every defense that filters surface form loses to the first good reframe
 3. [Authority Is a Costume](essays/03-authority-is-a-costume.md) — why agents believe letterhead: Cialdini's authority principle, PAP's Authority Endorsement, and EchoLeak's quiet email
+4. [Recency Beats Rules](essays/04-recency-beats-rules.md) — why the last concrete instruction in the context usually wins
 
 More essays land as they are finished.
 
